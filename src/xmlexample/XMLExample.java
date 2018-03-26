@@ -49,7 +49,7 @@ public class XMLExample
                     throw new IOException("Nesutampa lytis");
             }
             
-            System.out.println("Viskas gerai!");*/
+            System.out.println("Viskas gerai!");
         }
         catch (FileNotFoundException e)
         {
